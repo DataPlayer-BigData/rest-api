@@ -1,0 +1,4 @@
+spring
+ messagedev:How are you
+server:
+ port:8081
